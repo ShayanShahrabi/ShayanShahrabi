@@ -1,8 +1,6 @@
-<div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  />
-</div>
+<p align="left">Hi! I'm Shayan Shahrabi, a Computer Science student at Shahid Beheshti University in my 2nd year, 4th semester, with a strong interest in Python programming, algorithms, and the exciting fields of machine learning and artificial intelligence. While I am relatively new to AI and machine learning, I am eager to explore their applications and potential. I enjoy leveraging Python to develop applications and find fulfillment in collaborating with teams where I can contribute and learn from others.</p>
 
-###
+You can contact me through the followings:
 
 <div align="center">
  <a href="https://www.linkedin.com/in/shayanshahrabi/" target="_blank">
@@ -17,21 +15,7 @@
 
 ###
 
-<h1 align="center">Hello there!</h1>
-
-###
-
-<h3 align="left">👨🏻‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm a Computer Science student at Shahid Beheshti University in my 2nd year, 3rd semester, with a strong interest in Python programming, algorithms, and the exciting fields of machine learning and artificial intelligence. While I am relatively new to AI and machine learning, I am eager to explore their applications and potential. I enjoy leveraging Python to develop applications and find fulfillment in collaborating with teams where I can contribute and learn from others.</p>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+## Technologies:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -49,11 +33,34 @@
 
 ###
 
-<br clear="both">
+## Some of My Notable Repositories
 
+### Course Projects
+- [ShayanShahrabi/Basic-Programing-Course-Project](https://github.com/ShayanShahrabi/Pac-Man)
+- [ShayanShahrabi/Advanced-Programing-Course-Midterm-Project](https://github.com/ShayanShahrabi/online-shop-simulator)
+- [ShayanShahrabi/Advanced-Programing-Course-Project](https://github.com/ShayanShahrabi/Spotify-Project)
+
+
+### For Fun!
+- [ShayanShahrabi/Rainbow-Hacking](https://github.com/ShayanShahrabi/Rainbow_Hacking)
+- [ShayanShahrabi/Multithreading-Done-Right](https://github.com/ShayanShahrabi/Multithreading-Done-Right)
+
+### Old Projects
+- [ShayanShahrabi/Doodle-Jump](https://github.com/ShayanShahrabi/Doodle-Jump)
+
+
+## General Stats
+
+<br clear="both">
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShayanShahrabi&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShayanShahrabi&hide_title=true&hide_rank=false&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShayanShahrabi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+
+
+
+
+
+
+

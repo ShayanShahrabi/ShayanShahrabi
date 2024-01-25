@@ -39,6 +39,7 @@ You can contact me through the followings:
 - [ShayanShahrabi/Basic-Programing-Course-Project](https://github.com/ShayanShahrabi/Pac-Man)
 - [ShayanShahrabi/Advanced-Programing-Course-Midterm-Project](https://github.com/ShayanShahrabi/online-shop-simulator)
 - [ShayanShahrabi/Advanced-Programing-Course-Project](https://github.com/ShayanShahrabi/Spotify-Project)
+- [ShayanShahrabi/Linear-Algebra-Course-Project](https://github.com/ShayanShahrabi/Image_Manipulation_with_Linear_Algebra)
 
 
 ### For Fun!

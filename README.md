@@ -36,10 +36,10 @@ You can contact me through the followings:
 ## Some of My Notable Repositories
 
 ### Course Projects
-- [ShayanShahrabi/Basic-Programing-Course-Project](https://github.com/ShayanShahrabi/Pac-Man)
-- [ShayanShahrabi/Advanced-Programing-Course-Midterm-Project](https://github.com/ShayanShahrabi/online-shop-simulator)
-- [ShayanShahrabi/Advanced-Programing-Course-Project](https://github.com/ShayanShahrabi/Spotify-Project)
 - [ShayanShahrabi/Linear-Algebra-Course-Project](https://github.com/ShayanShahrabi/Linear-Algebra-Course-Project)
+- [ShayanShahrabi/Advanced-Programing-Course-Project](https://github.com/ShayanShahrabi/Spotify-Project)
+- [ShayanShahrabi/Advanced-Programing-Course-Midterm-Project](https://github.com/ShayanShahrabi/online-shop-simulator)
+- [ShayanShahrabi/Basic-Programing-Course-Project](https://github.com/ShayanShahrabi/Pac-Man)
 
 
 

@@ -36,7 +36,7 @@ You can contact me through the followings:
 ## Some of My Notable Repositories
 
 ### Machine Learning Related
-[ShayanShahrabi/Spam-Detector](https://github.com/ShayanShahrabi/Spam-Detector/tree/main)
+- [ShayanShahrabi/Spam-Detector](https://github.com/ShayanShahrabi/Spam-Detector/tree/main)
 
 ### Course Projects
 - [ShayanShahrabi/Linear-Algebra-Course-Project](https://github.com/ShayanShahrabi/Linear-Algebra-Course-Project)

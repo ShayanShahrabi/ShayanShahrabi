@@ -38,8 +38,6 @@ You can contact me through the followings:
 ### Machine Learning Related
 - [ShayanShahrabi/Spam-Detector](https://github.com/ShayanShahrabi/Spam-Detector/tree/main)
 
-### Data Structures and Algorithms
-- [ShayanShahrabi/Young-Diagram](https://github.com/ShayanShahrabi/Young-Diagram)
 
 
 ### Course Projects
@@ -48,6 +46,10 @@ You can contact me through the followings:
 - [ShayanShahrabi/Advanced-Programing-Course-Midterm-Project](https://github.com/ShayanShahrabi/online-shop-simulator)
 - [ShayanShahrabi/Basic-Programing-Course-Project](https://github.com/ShayanShahrabi/Pac-Man)
 
+
+
+### Data Structures and Algorithms
+- [ShayanShahrabi/Young-Diagram](https://github.com/ShayanShahrabi/Young-Diagram)
 
 
 ### For Fun!

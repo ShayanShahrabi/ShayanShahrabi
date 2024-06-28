@@ -57,7 +57,6 @@ You can contact me through the followings:
 - [ShayanShahrabi/Java-Souls-Upgraded](https://github.com/ShayanShahrabi/Java-Souls-Upgraded)
 - [ShayanShahrabi/Solar-System-Simulator](https://github.com/ShayanShahrabi/Solar-System-Simulator)
 - [ShayanShahrabi/Rainbow-Hacking](https://github.com/ShayanShahrabi/Rainbow_Hacking)
-- [ShayanShahrabi/Multithreading-Done-Right](https://github.com/ShayanShahrabi/Multithreading-Done-Right)
 
 
 ### Old Projects (2018 and before)

@@ -48,14 +48,8 @@ You can contact me through the followings:
 - [ShayanShahrabi/Basic-Programing-Course-Project](https://github.com/ShayanShahrabi/Pac-Man)
 
 
-
-### Data Structures and Algorithms
-- [ShayanShahrabi/Young-Diagram](https://github.com/ShayanShahrabi/Young-Diagram)
-
-
 ### For Fun!
 - [ShayanShahrabi/assembly_fans](https://github.com/ShayanShahrabi/assembly_fans)
-- [ShayanShahrabi/Java-Souls-Upgraded](https://github.com/ShayanShahrabi/Java-Souls-Upgraded)
 - [ShayanShahrabi/Rainbow-Hacking](https://github.com/ShayanShahrabi/Rainbow_Hacking)
 
 

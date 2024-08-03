@@ -56,7 +56,6 @@ You can contact me through the followings:
 ### For Fun!
 - [ShayanShahrabi/assembly_fans](https://github.com/ShayanShahrabi/assembly_fans)
 - [ShayanShahrabi/Java-Souls-Upgraded](https://github.com/ShayanShahrabi/Java-Souls-Upgraded)
-- [ShayanShahrabi/Solar-System-Simulator](https://github.com/ShayanShahrabi/Solar-System-Simulator)
 - [ShayanShahrabi/Rainbow-Hacking](https://github.com/ShayanShahrabi/Rainbow_Hacking)
 
 

@@ -46,6 +46,7 @@ You can contact me through the followings:
 
 
 ### Course Projects
+- [ShayanShahrabi/Machine-Learning-with-Jadi](https://github.com/ShayanShahrabi/Machine_Learning_with_Jadi)
 - [ShayanShahrabi/Linear-Algebra-Course-Project](https://github.com/ShayanShahrabi/Linear-Algebra-Course-Project)
 - [ShayanShahrabi/Advanced-Programing-Course-Project](https://github.com/ShayanShahrabi/Spotify-Project)
 - [ShayanShahrabi/Advanced-Programing-Course-Midterm-Project](https://github.com/ShayanShahrabi/online-shop-simulator)

@@ -39,15 +39,8 @@ You can contact me through the followings:
 
 ## Some of My Notable Repositories
 
-### Machine Learning Related
-- [ShayanShahrabi/EPL_Match_Results_Forcasting](https://github.com/ShayanShahrabi/EPL_Match_Results_Forcasting)
-- [ShayanShahrabi/Spam-Detector](https://github.com/ShayanShahrabi/Spam-Detector/tree/main)
-
-
 
 ### Course Projects
-- [ShayanShahrabi/Machine-Learning-with-Jadi](https://github.com/ShayanShahrabi/Machine_Learning_with_Jadi)
-- [ShayanShahrabi/Linear-Algebra-Course-Project](https://github.com/ShayanShahrabi/Linear-Algebra-Course-Project)
 - [ShayanShahrabi/Advanced-Programing-Course-Project](https://github.com/ShayanShahrabi/Spotify-Project)
 - [ShayanShahrabi/Advanced-Programing-Course-Midterm-Project](https://github.com/ShayanShahrabi/online-shop-simulator)
 - [ShayanShahrabi/Basic-Programing-Course-Project](https://github.com/ShayanShahrabi/Pac-Man)
@@ -55,7 +48,6 @@ You can contact me through the followings:
 
 ### For Fun!
 - [ShayanShahrabi/assembly_fans](https://github.com/ShayanShahrabi/assembly_fans)
-- [ShayanShahrabi/Rainbow-Hacking](https://github.com/ShayanShahrabi/Rainbow_Hacking)
 
 
 ### Old Projects (2018 and before)
@@ -70,11 +62,3 @@ You can contact me through the followings:
   <img src="https://github-readme-stats.vercel.app/api?username=ShayanShahrabi&hide_title=true&hide_rank=false&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShayanShahrabi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
-
-
-
-
-
-
-
-

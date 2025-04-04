@@ -1,4 +1,4 @@
-<p align="left">Hi! I'm Shayan, a Computer Science student at Shahid Beheshti University in my 3rd year, 5th semester, with a strong interest in Python programming, algorithms, and the exciting fields of machine learning and artificial intelligence. While I am relatively new to AI and machine learning, I am eager to explore their applications and potential. I enjoy leveraging Python to develop applications and find fulfillment in collaborating with teams where I can contribute and learn from others.</p>
+<p align="left">Hi! I'm Shayan, a Computer Science student at Shahid Beheshti University in my 3rd year, 6th semester, with a strong interest in Python programming, algorithms, and the exciting fields of machine learning and artificial intelligence. While I am relatively new to AI and machine learning, I am eager to explore their applications and potential. I enjoy leveraging Python to develop applications and find fulfillment in collaborating with teams where I can contribute and learn from others.</p>
 
 You can contact me through the followings:
 

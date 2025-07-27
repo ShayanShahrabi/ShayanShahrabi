@@ -1,41 +1,13 @@
-<p align="left">Hi! I'm Shayan, a Computer Science student at Shahid Beheshti University in my 3rd year, 6th semester, with a strong interest in Python programming, algorithms, and the exciting fields of machine learning and artificial intelligence. While I am relatively new to AI and machine learning, I am eager to explore their applications and potential. I enjoy leveraging Python to develop applications and find fulfillment in collaborating with teams where I can contribute and learn from others.</p>
+Hi! I’m Shayan, a BSc student in Computer Science at Shahid Beheshti University.<br>
 
-You can contact me through the followings:
+My interests lie in natural language processing and large language models,<br> (e.g., how language models generate and reason over text, how embedding spaces might represent meaning, and how models behave in few-shot and in-context learning scenarios)<br>
 
-<div align="center">
- <a href="https://www.linkedin.com/in/shayanshahrabi/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
- </a>
+Recently, I’ve been curious about lightweight adaptation methods such as LoRA and prompt-based approaches.<br><br>
 
- <a href="mailto:shayanshahrab@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
- </a>
+I find myself enjoying the process of learning and researching these topics from a humble and open-minded perspective.<br><br>
 
-</div>
+You can find more about me and my work on my [personal website](https://shayanshahrabi.github.io).
 
-###
-
-## Tools and Technologies:
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-</div>
-
-###
 
 ## Some of My Notable Repositories
 

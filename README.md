@@ -1,4 +1,4 @@
-Hi! I’m Shayan, a BSc student in Computer Science at Shahid Beheshti University.<br>
+Hi! I’m Shayan, a BSc student in Computer Science at Shahid Beheshti University (SBU).<br>
 
 My interests lie in natural language processing and large language models 
 (e.g., how language models generate and reason over text, how embedding spaces might represent meaning, and how models behave in few-shot and in-context learning scenarios) and

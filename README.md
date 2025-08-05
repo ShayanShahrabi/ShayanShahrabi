@@ -1,8 +1,5 @@
-Hi! I’m Shayan, a BSc student in Computer Science at Shahid Beheshti University (SBU).<br>
-
-My interests lie in natural language processing and large language models 
-(e.g., how language models generate and reason over text, how embedding spaces might represent meaning, and how models behave in few-shot and in-context learning scenarios) and
-I find myself enjoying the process of learning and researching these topics.<br><br>
+Hi! I’m Shayan, a BSc student in Computer Science at Shahid Beheshti University (SBU).
+My interests lie in machine learning and deep learning, with a subtle focus on natural language processing and large language models. I enjoy exploring different areas within AI and find the process of learning and researching especially fulfilling.
 
 You can find more about me and my work on my [personal website](https://shayanshahrabi.github.io).
 

@@ -8,18 +8,18 @@ You can learn more about my work on my [personal website](https://shayanshahrabi
 
 
 ### Course Projects
-- [ShayanShahrabi/Advanced-Programing-Course-Project](https://github.com/ShayanShahrabi/Spotify-Project)
-- [ShayanShahrabi/Advanced-Programing-Course-Midterm-Project](https://github.com/ShayanShahrabi/online-shop-simulator)
-- [ShayanShahrabi/Basic-Programing-Course-Project](https://github.com/ShayanShahrabi/Pac-Man)
+- [Advanced-Programing-Course-Project](https://github.com/ShayanShahrabi/Spotify-Project)
+- [Advanced-Programing-Course-Midterm-Project](https://github.com/ShayanShahrabi/online-shop-simulator)
+- [Basic-Programing-Course-Project](https://github.com/ShayanShahrabi/Pac-Man)
 
 
 ### For Fun!
-- [ShayanShahrabi/assembly_fans](https://github.com/ShayanShahrabi/assembly_fans)
+- [assembly_fans](https://github.com/ShayanShahrabi/assembly_fans)
 
 
 ### Old Projects (2018 and before)
-- [ShayanShahrabi/Doodle-Jump](https://github.com/ShayanShahrabi/Doodle-Jump)
-- [ShayanShahrabi/Banking-System](https://github.com/ShayanShahrabi/Bankig-System)
+- [Doodle-Jump](https://github.com/ShayanShahrabi/Doodle-Jump)
+- [Banking-System](https://github.com/ShayanShahrabi/Bankig-System)
 
 
 ## General Stats

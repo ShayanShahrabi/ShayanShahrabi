@@ -4,24 +4,6 @@ My interests broadly include machine learning and deep learning, with a subtle f
 You can learn more about my work on my [personal website](https://shayanshahrabi.github.io), and feel free to get in touch if you'd like to connect.
 
 
-## Some of My Notable Repositories
-
-
-### Course Projects
-- [Advanced-Programing-Course-Project](https://github.com/ShayanShahrabi/Spotify-Project)
-- [Advanced-Programing-Course-Midterm-Project](https://github.com/ShayanShahrabi/online-shop-simulator)
-- [Basic-Programing-Course-Project](https://github.com/ShayanShahrabi/Pac-Man)
-
-
-### For Fun!
-- [assembly_fans](https://github.com/ShayanShahrabi/assembly_fans)
-
-
-### Old Projects (2018 and before)
-- [Doodle-Jump](https://github.com/ShayanShahrabi/Doodle-Jump)
-- [Banking-System](https://github.com/ShayanShahrabi/Bankig-System)
-
-
 ## General Stats
 
 <br clear="both">
